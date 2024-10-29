@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mangesh&#39;s Portfolio &amp; Blog</title>
+    <link>https://1Mangesh1.github.io/blog/</link>
+    <description>Recent content on Mangesh&#39;s Portfolio &amp; Blog</description>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://1Mangesh1.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://1Mangesh1.github.io/blog/about/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://1Mangesh1.github.io/blog/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Mangesh, a Computer Engineering graduate passionate about AI, Machine Learning, and Web Development.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>CrimiFace</title>
+      <link>https://1Mangesh1.github.io/blog/portfolio/crimiface/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://1Mangesh1.github.io/blog/portfolio/crimiface/</guid>
+      <description>A criminal recognition system using facial recognition with Python and TensorFlow.</description>
+    </item>
+    <item>
+      <title>My First Blog Post</title>
+      <link>https://1Mangesh1.github.io/blog/posts/my-first-post/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://1Mangesh1.github.io/blog/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Welcome to my blog where I share thoughts on coding, projects, and experiences!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Procedural Generation</title>
+      <link>https://1Mangesh1.github.io/blog/posts/procedural-generation/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://1Mangesh1.github.io/blog/posts/procedural-generation/</guid>
+      <description>An exploration of procedural generation techniques in game development.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://1Mangesh1.github.io/blog/portfolio/chatapp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://1Mangesh1.github.io/blog/portfolio/chatapp/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+  </channel>
+</rss>

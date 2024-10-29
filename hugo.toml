@@ -1,0 +1,50 @@
+baseURL = "https://1Mangesh1.github.io/blog/"
+languageCode = "en-us"
+title = "Mangesh's Portfolio & Blog"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+# Site Metadata and Theme Parameters
+[params]
+  author = "Mangesh Bide"
+  description = "A personal portfolio and blog site showcasing my projects, skills, and thoughts."
+  dateFormat = "January 2, 2006"
+  ShowReadingTime = true          # Shows reading time for each post
+  ShowBreadCrumbs = true          # Enables breadcrumb navigation
+  ShowPostNavLinks = true         # Shows navigation links between posts
+  ShowTagsInMenu = true           # Shows tags in the main menu
+  defaultTheme = "auto"           # Options: "light", "dark", or "auto"
+  ShowRecentPostsOnHomepage = true # Show recent posts on homepage
+    RecentPostsCount = 3            # Number of recent posts to display
+       # Show navigation links between posts
+
+
+# Social Links
+[[params.social]]
+  name = "github"
+  url = "https://github.com/1Mangesh1"
+
+[[params.social]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/mangesh-bide"
+
+# Main Menu Links
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Portfolio"
+  url = "/portfolio"
+  weight = 2
+
+[[menu.main]]
+  name = "Blog"
+  url = "/posts"
+  weight = 3
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
+  weight = 4
