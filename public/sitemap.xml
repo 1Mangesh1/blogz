@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://1Mangesh1.github.io/blogz/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://1Mangesh1.github.io/blogz/portfolio/crimiface/</loc>
+    <loc>http://localhost:1313/portfolio/crimiface/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://1Mangesh1.github.io/blogz/tags/game-development/</loc>
+    <loc>http://localhost:1313/tags/game-development/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://1Mangesh1.github.io/blogz/tags/machine-learning/</loc>
+    <loc>http://localhost:1313/tags/machine-learning/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://1Mangesh1.github.io/blogz/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://1Mangesh1.github.io/blogz/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/posts/my-first-post/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://1Mangesh1.github.io/blogz/portfolio/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://1Mangesh1.github.io/blogz/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://1Mangesh1.github.io/blogz/tags/procedural-generation/</loc>
+    <loc>http://localhost:1313/tags/procedural-generation/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://1Mangesh1.github.io/blogz/posts/procedural-generation/</loc>
+    <loc>http://localhost:1313/posts/procedural-generation/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://1Mangesh1.github.io/blogz/tags/python/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://1Mangesh1.github.io/blogz/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://1Mangesh1.github.io/blogz/tags/tensorflow/</loc>
+    <loc>http://localhost:1313/tags/tensorflow/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://1Mangesh1.github.io/blogz/tags/unity/</loc>
+    <loc>http://localhost:1313/tags/unity/</loc>
     <lastmod>2024-10-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://1Mangesh1.github.io/blogz/portfolio/chatapp/</loc>
+    <loc>http://localhost:1313/portfolio/chatapp/</loc>
   </url><url>
-    <loc>https://1Mangesh1.github.io/blogz/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

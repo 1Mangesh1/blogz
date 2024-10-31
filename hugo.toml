@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Mangesh's Portfolio & Blog"
 theme = "PaperMod"
 enableRobotsTXT = true
+relativeURLs = true
+
 
 # Site Metadata and Theme Parameters
 [params]
